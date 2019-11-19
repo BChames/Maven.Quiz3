@@ -17,12 +17,14 @@ public class ArrayUtility<SomeType> {
     }
 
     public SomeType findEvenOccurringValue() {
-
+/*
         for(int i = 0; i < array.length; i++){
             for(int j = 0; i < array.length; j++){
 
             }
         }
+
+ */
 
         return null;
     }
